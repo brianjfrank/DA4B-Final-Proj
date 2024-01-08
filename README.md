@@ -1,4 +1,4 @@
-# DA4B-Final-Proj
+# Data Analysis For Business -Final-Proj
 ## Basketball Analysis Project Summary
 
 This project delved into basketball data analysis using the R programming language. The dataset, sourced from Kaggle, contained 53,949 observations across 49 basketball leagues. The focus was on player performance, including fouls, rebounds, draft picks, and additional player attributes. The project aimed to answer key questions about scoring trends, player positions, and changes in the NBA over time.
